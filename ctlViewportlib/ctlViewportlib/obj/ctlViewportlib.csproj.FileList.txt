@@ -1,0 +1,14 @@
+bin\Debug\ctlViewportlib.dll
+bin\Debug\ctlViewportlib.pdb
+bin\Debug\Interop.DexterLib.dll
+bin\Debug\JockerSoft.Media.dll
+bin\Debug\stdole.dll
+bin\Debug\Interop.WMPLib.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.WMPLib.dll
+obj\Debug\ctlViewportlib.csproj.ResolveComReference.cache
+obj\Debug\ctlViewportlib.ctlViewport.resources
+obj\Debug\ctlViewportlib.PostProcessing.resources
+obj\Debug\ctlViewportlib.csproj.GenerateResource.Cache
+obj\Debug\ctlViewportlib.dll
+obj\Debug\ctlViewportlib.pdb

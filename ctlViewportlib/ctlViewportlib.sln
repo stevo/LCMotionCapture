@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ctlViewportlib", "ctlViewportlib\ctlViewportlib.csproj", "{1D6CE929-54A9-4EA2-9828-A545AE631FDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D6CE929-54A9-4EA2-9828-A545AE631FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6CE929-54A9-4EA2-9828-A545AE631FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D6CE929-54A9-4EA2-9828-A545AE631FDD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6CE929-54A9-4EA2-9828-A545AE631FDD}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

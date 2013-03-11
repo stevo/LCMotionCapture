@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ctlViewportlib">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Stevo\My Documents\Visual Studio Projects\ctlViewportlib\ctlViewportlib.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\Stevo\My Documents\Visual Studio Projects\ctlViewportlib\ctlViewportlib.suo">
+</Property><Property Name="Date" Value="1 maja 2006">
+</Property><Property Name="Time" Value="21:40">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ctlViewportlib.sln" Description="File successfully backed up as C:\Documents and Settings\Stevo\My Documents\Visual Studio Projects\ctlViewportlib\Backup\ctlViewportlib.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ctlViewportlib.suo" Description="File successfully backed up as C:\Documents and Settings\Stevo\My Documents\Visual Studio Projects\ctlViewportlib\Backup\ctlViewportlib.suo">
+</Event><Event ErrorLevel="0" Project="ctlViewportlib" Source="ctlViewportlib\ctlViewportlib.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Stevo\My Documents\Visual Studio Projects\ctlViewportlib\Backup\ctlViewportlib\ctlViewportlib.csproj">
+</Event><Event ErrorLevel="0" Project="ctlViewportlib" Source="ctlViewportlib\ctlViewportlib.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\Stevo\My Documents\Visual Studio Projects\ctlViewportlib\Backup\ctlViewportlib\ctlViewportlib.csproj.user">
+</Event><Event ErrorLevel="0" Project="ctlViewportlib" Source="ctlViewportlib\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Stevo\My Documents\Visual Studio Projects\ctlViewportlib\Backup\ctlViewportlib\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ctlViewportlib" Source="ctlViewportlib\BitmapFilters.cs" Description="File successfully backed up as C:\Documents and Settings\Stevo\My Documents\Visual Studio Projects\ctlViewportlib\Backup\ctlViewportlib\BitmapFilters.cs">
+</Event><Event ErrorLevel="0" Project="ctlViewportlib" Source="ctlViewportlib\ctlViewport.cs" Description="File successfully backed up as C:\Documents and Settings\Stevo\My Documents\Visual Studio Projects\ctlViewportlib\Backup\ctlViewportlib\ctlViewport.cs">
+</Event><Event ErrorLevel="0" Project="ctlViewportlib" Source="ctlViewportlib\DXVideoWrapper.cs" Description="File successfully backed up as C:\Documents and Settings\Stevo\My Documents\Visual Studio Projects\ctlViewportlib\Backup\ctlViewportlib\DXVideoWrapper.cs">
+</Event><Event ErrorLevel="0" Project="ctlViewportlib" Source="ctlViewportlib\GUIDS.cs" Description="File successfully backed up as C:\Documents and Settings\Stevo\My Documents\Visual Studio Projects\ctlViewportlib\Backup\ctlViewportlib\GUIDS.cs">
+</Event><Event ErrorLevel="0" Project="ctlViewportlib" Source="ctlViewportlib\PostProcessing.cs" Description="File successfully backed up as C:\Documents and Settings\Stevo\My Documents\Visual Studio Projects\ctlViewportlib\Backup\ctlViewportlib\PostProcessing.cs">
+</Event><Event ErrorLevel="0" Project="ctlViewportlib" Source="ctlViewportlib\ctlViewport.resx" Description="File successfully backed up as C:\Documents and Settings\Stevo\My Documents\Visual Studio Projects\ctlViewportlib\Backup\ctlViewportlib\ctlViewport.resx">
+</Event><Event ErrorLevel="0" Project="ctlViewportlib" Source="ctlViewportlib\PostProcessing.resx" Description="File successfully backed up as C:\Documents and Settings\Stevo\My Documents\Visual Studio Projects\ctlViewportlib\Backup\ctlViewportlib\PostProcessing.resx">
+</Event><Event ErrorLevel="0" Project="ctlViewportlib" Source="ctlViewportlib\ctlViewportlib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ctlViewportlib" Source="ctlViewportlib\ctlViewportlib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ctlViewportlib.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ctlViewportlib.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ctlViewportlib" Source="ctlViewportlib\ctlViewportlib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
